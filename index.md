@@ -1,9 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
+Look at my work primarily in CS and biomedical device research. 
 
+### About Me
+Hello! I'm a Biomedical Engineering, Master of Engineering student graduating in May 2021 from Cornell University. 
+I graduated in 2020 from the University of California, Berkeley with a B.S. in Bioengineering and a minor in Electrical Engineering and Computer Science.
+I'm currently looking for a full time positon.
 
-### Markdown
+[Resume] (https://drive.google.com/file/d/1AiVkcJtmcDc3Zxkv7OHA6HED2F2vq5RC/view?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Code
 
 ```markdown
 Syntax highlighted code block
